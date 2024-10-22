@@ -17,3 +17,26 @@ This is a simple object detection app built using the YOLOv8 model and Streamlit
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
 cd your-repository-name
+
+2. Install the Requirements
+Make sure you have Python 3.10 or higher installed. Then, install the required Python packages by running:
+
+bash
+Copy code
+pip install -r requirements.txt
+3. Run the Streamlit App
+You can run the app using Streamlit:
+
+bash
+Copy code
+streamlit run app.py
+This will start the app locally, and you can access it via your browser at http://localhost:8501.
+
+Requirements
+Python 3.10+
+OpenCV
+Streamlit
+Pillow (for image handling)
+YOLOv8 (via the ultralytics package)
+Numpy
+All necessary packages are included in the requirements.txt file.
