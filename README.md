@@ -17,8 +17,8 @@ This is a simple object detection app built using the YOLOv8 model and Streamlit
 
 2. Install the Requirements
 Make sure you have Python 3.10 or higher installed. Then, install the required Python packages by running:
-
 pip install -r requirements.txt
+
 3. Run the Streamlit App
 You can run the app using Streamlit:
 
