@@ -12,9 +12,8 @@ This is a simple object detection app built using the YOLOv8 model and Streamlit
 ![YOLO Object Detection App](demo_screenshot.png)
 
 ## How to Run
-
-### 1. Clone the Repository
 ```bash
+1. Clone the Repository
 
 2. Install the Requirements
 Make sure you have Python 3.10 or higher installed. Then, install the required Python packages by running:
